@@ -35,6 +35,9 @@ Dokumentasjon-Tek-VOVIM-2026/
 ```
 
 # Modul 01: Dokumentasjon
+
+![Dokumentasjon](dokumentasjon.png)
+
 Du skal nå skrive en enkel dokumentasjon av din erfaring, dine forutsetninger, og dine målsetninger for utdanningen din på IM.
 
 - Lag en mappe som heter _modul-01-intro-til-dokumentasjon_
